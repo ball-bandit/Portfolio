@@ -3,7 +3,7 @@
 > I make cool stuff for cheap. What more do you need?
 
 🎥 **YouTube:** [@spoodev](https://youtube.com/@spoodev?si=m_hizAxGo7uK4ZIg)  
-💵 **Payment Method:** Cash App  
+💵 **Payment Method:** Cash App, Venmo, Robux  
 💬 **Discord:** `ball_bandi`
 
 ---
