@@ -2,10 +2,10 @@
 
 I make cool things for cheap prices what more can you ask for!
 
-My Work:https://youtube.com/@spoodev?si=m_hizAxGo7uK4ZIg
+My Yt Channel: :https://youtube.com/@spoodev?si=m_hizAxGo7uK4ZIg
 
-💵 **Payment Method:** Cash App  
- **dms open:** ball_bandi
+**Payment Method:** Cash App  
+**Discord:** ball_bandi
 
 ---
 
@@ -22,4 +22,4 @@ Starter systems like enemy spawns, boss setups, etc.
 
 ---
 
-> DM me if you want me to do something for you, people say im nonchalant.
+> DM me if you want me to do something for you, I give quick and optimized scripts!
