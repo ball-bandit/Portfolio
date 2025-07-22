@@ -2,7 +2,7 @@
 
 I make cool things for cheap prices what more can you ask for!
 
-My Yt Channel: :https://youtube.com/@spoodev?si=m_hizAxGo7uK4ZIg
+My Yt Channel: https://youtube.com/@spoodev?si=m_hizAxGo7uK4ZIg
 
 **Payment Method:** Cash App  
 **Discord:** ball_bandi
