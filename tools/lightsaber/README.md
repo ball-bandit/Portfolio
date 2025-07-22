@@ -8,8 +8,6 @@ A simple lightsaber script. It plays animations, sound, and deals damage on touc
 ## 🎥 Demo
 [![Watch Demo](https://img.youtube.com/vi/3ERnUZfydEM/0.jpg)](https://youtu.be/3ERnUZfydEM)
 
-> Replace `YOUR_VIDEO_ID` with your actual YouTube ID.
-
 ## 🔧 How To Use
 1. Create a Tool in `StarterPack`
 2. Insert a `Part` named `Handle`
