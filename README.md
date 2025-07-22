@@ -1,14 +1,21 @@
-🛠️ Roblox Script Portfolio
-I make cool stuff for cheap. What more do you need?
+# 🛠️ Roblox Script Portfolio
 
-🎥 YouTube: @spoodev
-💵 Payment Method: Cash App
-💬 Discord: ball_bandi
+> I make cool stuff for cheap. What more do you need?
 
-💸 Pricing
-Type	Price	What You Get
-🧱 Simple Scripts	$3	Kill bricks, buttons, doors, etc.
-🛠️ Tools	$5	Weapons, gadgets, effects
-👾 Basic Systems	$10	Enemy spawners, boss setups, simple AI
+🎥 **YouTube:** [@spoodev](https://youtube.com/@spoodev?si=m_hizAxGo7uK4ZIg)  
+💵 **Payment Method:** Cash App  
+💬 **Discord:** `ball_bandi`
 
-DM me for commissions — I deliver fast, clean, and optimized Luau scripts.
+---
+
+## 💸 Pricing
+
+| Type             | Price | What You Get                           |
+|------------------|-------|----------------------------------------|
+| 🧱 Simple Scripts | $3    | Kill bricks, buttons, doors, etc.      |
+| 🛠️ Tools          | $5    | Weapons, gadgets, effects              |
+| 👾 Basic Systems  | $10   | Enemy spawners, boss setups, simple AI |
+
+---
+
+**DM me for commissions** — I deliver fast, clean, and optimized Luau scripts.
