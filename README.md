@@ -20,4 +20,4 @@ Starter systems like enemy spawns, boss setups, etc.
 
 ---
 
-> DM me if you want me to do something for you, people say im nonchalant and fast to get things done.
+> DM me if you want me to do something for you, people say im nonchalant.
