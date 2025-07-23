@@ -1,8 +1,8 @@
 # About Me
 
-I have been using Roblox Studio for around a year now and think its time to share my work with other people! 
+You can navigate my profile by clicking on the respective folders and then clicking on whatever project/tool you want to view!
 ---
-I sell already built scripts and will do work for you, dm for prices and more info! 😊
+Everything I post here is open source and I will do work for you, dm for prices and more info! 😊
 ---
 
 🎥 **YouTube:** [@spoodev](https://youtube.com/@spoodev?si=m_hizAxGo7uK4ZIg)  
